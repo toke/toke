@@ -1,3 +1,5 @@
+<link rel="me" href="https://chaos.social/@toke" />
+
 ### Hi there 👋
 
 <!--
