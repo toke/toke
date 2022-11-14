@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a rel="me" href="https://chaos.social/@toke">Mastodon</a>
+<a rel="me" href="https://chaos.social/@toke">Follow me on Mastodon</a>
