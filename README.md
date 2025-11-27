@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 
 <a rel="me" href="https://chaos.social/@toke">Follow me on Mastodon</a>
+
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
